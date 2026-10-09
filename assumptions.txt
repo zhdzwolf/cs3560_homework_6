@@ -1,0 +1,6 @@
+The only issue was getting the part of the rules working where it states:
+    "The renter may choose a different date or stop."
+Was completely unable to get it working because of how repeat/while blocks work.
+Doesn't allow the block to end inside of if statements.
+
+Activity diagram built upon nested if statements due to breaking arrow pointers.
